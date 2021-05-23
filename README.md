@@ -6,7 +6,7 @@ Pequi Finance UIkit is a set of React components and hooks used to build pages o
 
 ## Install
 
-`yarn add @Pequi Finance-libs/uikit`
+`yarn add @pequifinance-libs/uikit`
 
 ## Setup
 
